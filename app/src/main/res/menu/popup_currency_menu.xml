@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/ug"
+    android:title="UGX"
+    />
+    <item
+        android:id="@+id/usd"
+        android:title="USD"
+        />
+    <item
+        android:id="@+id/yuan"
+        android:title="CNY"
+        />
+    <item
+        android:id="@+id/tzd"
+        android:title="TZS"
+        />
+    <item
+        android:id="@+id/kenya"
+        android:title="KES"
+        />
+</menu>

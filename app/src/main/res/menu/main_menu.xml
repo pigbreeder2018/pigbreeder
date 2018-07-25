@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_farmdata"
+        android:title="@string/FARM_DATA"
+        ></item>
+    <item
+        android:id="@+id/main_add_pig_breed"
+        android:title="ADD PIG BREED"
+        ></item>
+    <item
+        android:id="@+id/main_settings_btn"
+        android:title="ACCOUNT SETTINGS"
+        ></item>
+    <item
+        android:id="@+id/main_all_btn"
+        android:title="ALL USERS"
+        ></item>
+    <item
+        android:id="@+id/main_tree"
+        android:title="BREED HISTORY"
+        ></item>
+    <item
+    android:id="@+id/main_logout_btn"
+    android:title="LOG OUT"
+    ></item>
+
+</menu>

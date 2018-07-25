@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pig0"
+        android:title="Local"
+        />
+
+<item
+    android:id="@+id/pig1"
+    android:title="Combourough"
+    />
+    <item
+        android:id="@+id/pig2"
+        android:title="Duroc"
+
+        />
+    <item
+        android:id="@+id/pig3"
+        android:title="Gloucestershire"
+
+        />
+    <item
+        android:id="@+id/pig4"
+        android:title="LandRace"
+
+        />
+    <item
+        android:id="@+id/pig5"
+        android:title="Largeblack"
+
+        />
+    <item
+        android:id="@+id/pig6"
+        android:title="Potbellied"
+
+        />
+    <item
+        android:id="@+id/pig7"
+        android:title="Sadleback"
+
+        />
+</menu>
